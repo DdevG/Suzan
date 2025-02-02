@@ -60,7 +60,15 @@ Always conduct a thorough manual review and use multiple security auditing tools
   - web3
   - Werkzeug
 
+Login:
+admin
+password
+
 Install the required packages using pip:
 
 ```bash
 pip install Flask plotly web3 Werkzeug
+
+
+python suzan.py
+
