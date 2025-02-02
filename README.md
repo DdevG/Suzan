@@ -6,7 +6,7 @@ Always conduct a thorough manual review and use multiple security auditing tools
 
 
 
-**Suzan** is a comprehensive Ethereum/EVM contract scanner and vulnerability analysis tool. It performs advanced static analysis of contract bytecode (and optionally Solidity source code via external tools like Slither) to detect common vulnerability patterns in smart contracts. The tool features a dynamic dashboard built with Flask, Plotly, and DataTables, providing real-time monitoring, analytics, and a live blockchain activity feed.
+**Suzan** is a comprehensive Ethereum/EVM contract scanner and vulnerability analysis tool. It performs advanced static analysis of contract bytecode to detect common vulnerability patterns in smart contracts. The tool features a dynamic dashboard built with Flask, Plotly, and DataTables, providing real-time monitoring, analytics, and a live blockchain activity feed.
 
 ![Dashboard](https://github.com/user-attachments/assets/3e9b909b-2ab7-4e30-b544-9efb5e057973)
 
